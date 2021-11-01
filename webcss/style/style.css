@@ -1,0 +1,148 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#site-container{
+    width:960px;
+    height:auto;
+    margin:20px auto;
+    border:1px solid #000;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+#header{
+    width:950px;
+    height:280px;
+    margin:0px auto;
+    border:1px solid #000;
+}
+#menu-content{
+    width:950px;
+    height:auto;
+    margin:5 auto;
+}
+#menu{
+    float:left;
+    width:300px;
+    height:600px;
+    border:1px solid #000;
+}
+#content{
+    float:right;
+    width:625px;
+    height:600px;
+    border:1px solid #000;
+}
+#footer{
+    width:950px;
+    height:70px;
+    margin:5px auto;
+    border:1px solid #000;
+}
+.floating{
+    clear:both;
+    height:0px;
+    line-height:0px;
+}
+#header{
+    width: 950px;
+    height: 280px;
+    background:url(../images/tes.jpg);
+    margin:5px auto;
+}
+#header a{
+    font:28pt 'Matura MT Script Capitals';
+    text-decoration:none;
+    color:orangered;
+}
+#header p{
+    font:20pt 'Brush Script Std';
+    color:crimson;
+}
+#header{
+    width:900px; 
+    height:130px; 
+    background:url(../images/tes.jpg);
+    margin:5px auto;
+    padding-top:150px; 
+    padding-left:50px; 
+}
+.judul_1{
+    display:block;
+    height:40px;
+    background:red;
+    font:20pt "Script MT Bold";
+    color:#fff;
+    text-align:center;
+    border:1px solid red;
+}
+#menu ul{
+    list-style:none;
+}
+#menu li a{
+    display:block;
+    height:30px;
+    background:cornflowerblue;
+    font:16pt "Script MT Bold";
+    color:#000;
+    text-decoration:none;
+    border-bottom:1px solid blue;
+    border-left:1px solid blue;
+    border-right:1px solid blue;
+    padding-left:20px;
+}
+#menu li a:hover{
+    background:silver;
+    color:#fff;
+}
+#content{
+    width:610px;
+    height:auto;
+    border:1px solid #000;
+    float:right;
+    background:lime;
+    padding:15px;
+}
+.judul_2{
+    display:block;
+    border-bottom:2px solid #000;
+    font:26pt "Script MT Bold";
+    color:#fff;
+    padding-bottom:10px;
+}
+.img{
+    width:300px;
+    height:200px;
+    border:5px solid #fff;
+    margin-top:20px;
+    margin-right:20px;
+    float:left;
+}
+#content p{
+    margin-top:20px;
+}
+#footer{
+    width:950px;
+    height:40px;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-right:auto;
+    margin-left:auto;
+    background:cornflowerblue;
+    text-align:center;
+    padding-top:30px;
+    font-weight:bold;
+    color:#fff;
+}
+body{
+    background:aqua;
+    font:10pt verdana;
+}
+#site-container{
+    width:960px;
+    height:auto;
+    margin:20px auto;
+    background:#ffffcc;
+    padding-top:5px;
+    padding-bottom:5px;
+}
